@@ -1,0 +1,156 @@
+@media screen and (max-width: 1529px){
+    #content-five-profile-one{
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width: 1500px){
+    #content-five-profile-one{
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width: 1490px){
+    #content-five-profile-one{
+        margin-left: 190px;
+    }
+}
+
+@media screen and (max-width: 1480px){
+    #content-five-profile-one{
+        margin-left: 180px;
+    }
+}
+
+@media screen and (max-width: 1470px){
+    #content-five-profile-one{
+        margin-left: 170px;
+    }
+}
+
+@media screen and (max-width: 1460px){
+    #content-five-profile-one{
+        margin-left: 160px;
+    }
+}
+
+@media screen and (max-width: 1450px){
+    #content-five-profile-one{
+        margin-left: 150px;
+    }
+}
+
+@media screen and (max-width: 1420px){
+    #content-five-profile-one{
+        margin-left: 135px;
+    }
+}
+
+@media screen and (max-width: 1390px){
+    #content-five-profile-one{
+        margin-left: 120px;
+    }
+}
+
+@media screen and (max-width: 1366px){
+    #content-five-profile-one{
+        margin-left: 120px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    #content-five-profile-one{
+        margin-left: 60px;
+    }
+    .content-five-profile{
+        height: 350px;
+        width: 300px;
+        margin-top: -150px;
+    }
+
+    .content-five-photo{
+        margin-left: -40px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    #content-five-profile-one{
+        margin-left: 30px;
+    }
+    .content-five-profile{
+        height: 250px;
+        width: 220px;
+        margin-top: -110px !important;
+    }
+
+    
+    .content-five-photo i{
+        font-size: 10px;
+        margin-top: 50px;
+        margin-left: -30px;
+
+    }
+}
+
+@media screen and (max-width: 480px){
+
+    .content-five-profile{
+        display: inline;
+    }
+
+    #content-five-profile-one{
+        margin-left: 30px;
+    }
+    .content-five-profile{
+        height: 100px;
+        width: 150px;
+        margin-top: -110px !important;
+    }
+
+    .content-five-profile h3{
+        font-size: 15px;
+    }
+
+    .content-five-profile p{
+        font-size: 10px;
+    }
+    
+    .content-five-photo i{
+        font-size: 10px;
+        margin-top: 50px;
+        margin-left: 90px;
+
+    }
+
+    .content-five-profile-stats i{
+        padding: -10px 0px;
+        font-size: 15px;
+    }
+
+    #content-five-profile-three{
+        margin-top: 20px;
+    }
+
+    .content-five-profile-stats-vote, #content-five-profile-stats-mail{
+        margin-left: 8px;
+    }
+
+    .arrow-down{
+        margin-top: -300px !important;
+        display: block;
+        top: 100px;
+        right: 0;
+        bottom: 0;
+        left: 0px;
+    }
+
+    @-webkit-keyframes arrow{
+        0%, 100%{top: 200px;}
+        50%{top: 230px;}
+    }
+    
+    @keyframes arrow{
+        0%, 100%{top: 200px;}
+        50%{top: 230px;}
+    }
+}
